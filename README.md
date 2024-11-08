@@ -56,5 +56,3 @@ To use PyQuotes, you can either install it directly from the GitHub repository o
 
     count = PyQuotes.count_quotes_by_author("Albert Einstein")
     print(f"Albert Einstein has {count} quotes")
-
-
